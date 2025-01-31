@@ -28,5 +28,5 @@ It also allows users to define a region of interest (ROI), adjust sensitivity, a
 </ol>
 
 <hr>
-<p><em>by br</em></p>
-Maneeth Reddy
+<p><em>by Maneeth Reddy</em></p>
+
